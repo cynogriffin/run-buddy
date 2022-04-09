@@ -13,4 +13,4 @@ https://cynogriffin.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Cody Griffin
 
-### ©️2019 Run Buddy, Inc
+### ©️2022 Run Buddy, Inc
